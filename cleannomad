@@ -1,0 +1,4 @@
+rm -rf /etc/nomad.d/
+rm -rf /opt/nomad/
+sudo rm -rf /etc/systemd/system/nomad.service 
+sudo rm /usr/local/bin/nomad 
